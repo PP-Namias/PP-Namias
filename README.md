@@ -22,9 +22,8 @@ You can click the Preview link to take a look at your changes.
    
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=PP-Namias&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&hide_border=true"></img><br>
-    
-[![PP-Namias's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=8&layout=compact&hide_border=true)](https://github.com/PP-Namias)
-
+     <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=8&layout=compact&hide_border=true"></img><br>
  <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
      <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
   </samp>
