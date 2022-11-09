@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Jhon+Keneth+Namias%2C+19+years+old;Unity+Game+Developer;Front-end+Web+Developer)](https://git.io/typing-svg)
   </samp>
-
 </p>
 
 <details align="center">
@@ -30,10 +29,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/PP-Namias">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
-
   <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
   <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
-
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=PP-Namias&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 <br>
   </samp>
