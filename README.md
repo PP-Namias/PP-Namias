@@ -1,14 +1,14 @@
-<h2 align="center"><samp><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PP-Namias">Jhon Keneth Namias</a></b></samp></h2>
+<h3 align="center"><samp><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PP-Namias">Jhon Keneth Namias</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 Bachelor of Science Computer Science Student @ <img src="https://www.ucc-caloocan.edu.ph/images/ucc_logo.png" width="15"/> <b>University of Caloocan City</b> 」
 <br>
   </samp>
 </p>
-<h2 align="center">
+<h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Jhon+Keneth+Namias%2C+19+years+old;Unity+Game+Developer;Front-end+Web+Developer)](https://git.io/typing-svg)
-</h2>
+</h3>
 
 <details align="center">
    <summary><samp>&#9776; Details</samp></summary>
