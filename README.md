@@ -11,7 +11,7 @@
 </h3>
 
 <details align="center">
-   <summary><samp>&#9776; Details</samp></summary>
+<summary><samp>&#9776; Details</samp></summary>
    <p align="center"> 
      <br>
       <a href="https://github.com/PP-Namias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -41,4 +41,3 @@
     From <a href="https://github.com/PP-Namias/PP-Namias">PP-Namias</a>
   </p>
 </samp>
-
