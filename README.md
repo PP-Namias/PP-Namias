@@ -1,4 +1,4 @@
-<h3 align="center"><samp><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PP-Namias">Jhon Keneth Namias</a></b></samp></h3>
+<h3 style="font-size:20px" align="center";><samp><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PP-Namias">Jhon Keneth Namias</a></b></samp></h3>
 <p align="center">
   <br>
     <samp>
