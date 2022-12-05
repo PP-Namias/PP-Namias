@@ -11,7 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Jhon+Keneth+Namias%2C+19+years+old;Unity+Game+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
 </h3>
-
 <details align="center">
 <summary><samp>&#9776; Details</samp></summary>
   <p align="center"> 
@@ -29,21 +28,21 @@
     </a>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/
+    </a>    
+    <br>
+    <br>
+    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PP-Namias&theme=dracula&color=B994E6&bg_color=2B2D3D" />
     </a>
   </p>
-
   <p align="center">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=PP-Namias&theme=dracula&color=B994E6&bg_color=2B2D3D"/>
     <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/>
     </a>
     <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square">
     </a>
-    <br>
   </samp>
   </p>
 </details>
-<br>
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
