@@ -32,7 +32,7 @@
     </a>    
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PP-Namias&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=PP-Namias&theme=high-contrast&custom_title=Jhon+Keneth+Namias's+Contribution+Graph&hide_border=true" />
     </a>
   </p>
   <p align="center">
