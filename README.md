@@ -1,4 +1,9 @@
-<h1 align="center"><samp><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PP-Namias">Jhon Keneth Namias</a></b></samp></h1>
+<h1 align="center">
+  <samp>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PP-Namias">Jhon Keneth Namias</a></b>
+  </samp>
+</h1>
+
 <p align="center">
   <br>
     <samp>
@@ -24,11 +29,11 @@
     <a href="https://github.com/PP-Namias?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white">
     </a>
     <br>
-    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PP-Namias&theme=buefy-dark&date_format=M%20j[%2C%20Y]" />
+    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF" />
     </a>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/
+    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&layout=compact&theme=highcontrast&title_color=FFFFFF&hide_border=true"/
     </a>    
     <br>
     <br>
