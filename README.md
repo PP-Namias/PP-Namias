@@ -15,6 +15,9 @@
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=Jhon+Keneth+Namias%2C+19+years+old;Unity+Game+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jhon+Keneth+Namias%2C+19+years+old;Full+Stack+Web+Developer;Unity+Game+Developer;University+of+Caloocan+City+Student;Computer+Science+Student" alt="Typing SVG"/></a> 
+
 </h3>
 <details align="center">
 <summary><samp>&#9776; Details</samp></summary>
@@ -32,25 +35,24 @@
     <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF" />
     </a>
     <br>
-    <br>
     <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&layout=compact&theme=highcontrast&title_color=FFFFFF&hide_border=true"/
     </a>    
-    <br>
     <br>
     <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=PP-Namias&theme=high-contrast&custom_title=Jhon+Keneth+Namias's+Contribution+Graph&hide_border=true" />
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/>
-    </a>
-    <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square">
-    </a>
-  </samp>
+    <samp>
+      <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/>
+      </a>
+      <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square">
+      </a>
+    </samp>
   </p>
 </details>
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/PP-Namias/PP-Namias">PP-Namias</a>
+    From <a href="https://github.com/PP-Namias/PP-Namias"><b>PP-Namias</b></a>
   </p>
 </samp>
