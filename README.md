@@ -5,11 +5,14 @@
 </h1>
 
 <p align="center">
-  <br>
     <samp>
       「 Bachelor of Science Computer Science Student @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ucc-caloocan.edu.ph"><img src="https://www.ucc-caloocan.edu.ph/images/ucc_logo.png" width="15"/> <b>University of Caloocan City</b></a> 」
     </samp>
   <br>
+  <br>
+  <a href="https://discord.com/users/683914336376455200" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200" alt="Discord Presence of PP Namias#9958"/>
+  </a>
 </p>
 
 <h3 align="center">
