@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    「 Bachelor of Computer Science Student @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ucc-caloocan.edu.ph"><img src="https://www.ucc-caloocan.edu.ph/images/ucc_logo.png" width="15"/> <b>University of Caloocan City</b></a> 」
+    「 Bachelor of Science in Computer Science Student @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ucc-caloocan.edu.ph"><img src="https://www.ucc-caloocan.edu.ph/images/ucc_logo.png" width="15"/> <b>University of Caloocan City</b></a> 」
   </samp>
   <br>
   <a href="https://discord.com/users/683914336376455200" target="_blank">
