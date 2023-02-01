@@ -1,6 +1,6 @@
 <h1 align="center">
   <samp>
-    <a rel="nofollow noopener noreferrer" target="_blank" href="https://PP-Namias.github.io/"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></a> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://PP-Namias.github.io/">Jhon Keneth Namias</a></b>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://PP-Namias.github.io/">Jhon Keneth Namias</a></b>
   </samp>
 </h1>
 
@@ -8,11 +8,17 @@
   <samp>
     「 Bachelor of Science in Computer Science Student @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ucc-caloocan.edu.ph"><img src="https://www.ucc-caloocan.edu.ph/images/ucc_logo.png" width="15"/> <b>University of Caloocan City</b></a> 」
   </samp>
-  <br>
-  <a href="https://discord.com/users/683914336376455200" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958"/>
-  </a>
 </p>
+
+<div align="center">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=PP-Namias&label=Profile%20Views&color=565f89&style=flat&label=Visitors" alt="Visitors"></a>
+  <a href="#"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=565f89&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Stars"></a>
+  <a href="#"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=565f89&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Forks"></a>
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/683914336376455200" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958"/></a>
+</div>
 
 <h3 align="center">
   <a href="https://www.linkedin.com/in/PP-Namias"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jhon+Keneth+Namias%2C+19+years+old;Full+Stack+Web+Developer;Unity+Game+Developer;University+of+Caloocan+City+Student;Computer+Science+Student" alt="Typing SVG"/></a>
@@ -36,8 +42,6 @@
     <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&layout=compact&theme=highcontrast&title_color=FFFFFF&hide_border=true"/></a>
     <br>
     <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=PP-Namias&theme=high-contrast&custom_title=Jhon+Keneth+Namias's+Contribution+Graph&hide_border=true"/></a>
-  </p>
-  <p align="center">
     <samp>
       <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
       <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
