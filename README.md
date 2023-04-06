@@ -39,7 +39,7 @@
     <a href="https://github.com/PP-Namias?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF"/></a>
     <br>
-    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=10&theme=highcontrast&title_color=FFFFFF&hide_border=true"/></a>
+    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=6&theme=highcontrast&title_color=FFFFFF&hide_border=true"/></a>
     <br>
     <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=PP-Namias&theme=high-contrast&custom_title=Jhon+Keneth+Namias's+Contribution+Graph&hide_border=true"/></a>
     <samp>
