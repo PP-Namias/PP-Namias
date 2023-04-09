@@ -46,10 +46,10 @@
   </p>
 </details>
 
-<samp>
-  <p align="center">
+<p align="center">
+  <samp>
     ════ ⋆★⋆ ════
     <br>
     From <a href="https://github.com/PP-Namias/PP-Namias"><b>PP-Namias</b></a>
-  </p>
-</samp>
+  </samp>
+</p>
