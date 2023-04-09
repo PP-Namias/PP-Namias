@@ -18,11 +18,8 @@
 
 <div align="center">
   <a href="https://discord.com/users/683914336376455200" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958" width="750px"/></a>
-</div>
-
-<h3 align="center">
   <a href="https://www.linkedin.com/in/PP-Namias"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jhon+Keneth+Namias%2C+19+years+old;Full+Stack+Web+Developer;Unity+Game+Developer;University+of+Caloocan+City+Student;Computer+Science+Student" alt="Typing SVG"/></a>
-</h3>
+</div>
 
 <details>
 <summary align="center"><samp>&#9776; Details</samp></summary>
