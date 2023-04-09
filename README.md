@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/683914336376455200" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958" width="710px"/></a>
+  <a href="https://discord.com/users/683914336376455200" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958" width="750px"/></a>
 </div>
 
 <h3 align="center">
@@ -39,13 +39,13 @@
     <a href="https://github.com/PP-Namias?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF"/></a>
     <br>
-    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=6&theme=highcontrast&title_color=FFFFFF&hide_border=true"/></a>
+    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=10&theme=highcontrast&title_color=FFFFFF&hide_border=true&layout=compact"/></a>
+    <br>
+    <a href="https://wakatime.com/@PP_Namias"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=PP_Namias&theme=highcontrast&title_color=FFFFFF&hide_border=true&layout=compact"/></a>
     <br>
     <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=PP-Namias&theme=high-contrast&custom_title=Jhon+Keneth+Namias's+Contribution+Graph&hide_border=true"/></a>
-    <samp>
-      <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
-      <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
-    </samp>
+    <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
+    <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
   </p>
 </details>
 
