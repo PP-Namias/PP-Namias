@@ -14,6 +14,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://komarev.com/ghpvc/?username=PP-Namias&label=Profile%20Views&color=565f89&style=flat&label=Visitors" alt="Visitors"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=565f89&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Stars"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=565f89&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Forks"></a>
+  <a href="https://wakatime.com/@f535d13e-d218-4161-ace5-55c24686a95f"><img src="https://wakatime.com/badge/user/f535d13e-d218-4161-ace5-55c24686a95f.svg" alt="Total time coded since Jan 31 2023" /></a>
 </div>
 
 <div align="center">
