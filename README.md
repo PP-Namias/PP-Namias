@@ -1,4 +1,4 @@
-<h1 align="center" font-size="50px">
+<h1 align="center">
   <samp>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://PP-Namias.github.io/"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></a> Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://PP-Namias.github.io/">Jhon Keneth Namias</a></b>
   </samp>
