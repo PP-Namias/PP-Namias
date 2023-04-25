@@ -15,9 +15,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=0374b5&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Stars"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=0374b5&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Forks"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://wakatime.com/@f535d13e-d218-4161-ace5-55c24686a95f"><img src="https://wakatime.com/badge/user/f535d13e-d218-4161-ace5-55c24686a95f.svg" alt="Total Time Programming"></a>
-</div>
-
-<div align="center">
+  <br>
   <a href="https://discord.com/users/683914336376455200" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958" width="600px"/></a>
   <br>
   <a href="https://www.linkedin.com/in/PP-Namias"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jhon+Keneth+Namias%2C+19+years+old;Full+Stack+Web+Developer;Unity+Game+Developer;University+of+Caloocan+City+Student;Computer+Science+Student" alt="Typing SVG"/></a>
