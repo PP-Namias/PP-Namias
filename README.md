@@ -4,13 +4,12 @@
   </samp>
 </h1>
 
-<p align="center">
+<div align="center">
   <samp>
     「 Bachelor of Science in Computer Science Student @ <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ucc-caloocan.edu.ph"><img src="https://cdn.discordapp.com/attachments/1045298870533509130/1087532184916733962/UCC_logo_transformed.png" width="15"/> <b>University of Caloocan City</b></a> 」
   </samp>
-</p>
-
-<div align="center">
+  <br>
+  <br>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://komarev.com/ghpvc/?username=PP-Namias&label=Profile%20Views&color=0374b5&style=flat&label=Visitors" alt="Visitors"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=0374b5&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Stars"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=0374b5&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Forks"></a>
