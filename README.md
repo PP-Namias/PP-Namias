@@ -10,10 +10,11 @@
   </samp>
   <br>
   <br>
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://komarev.com/ghpvc/?username=PP-Namias&label=Profile%20Views&color=0374b5&style=flat&label=Visitors" alt="Visitors"></a>
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=0374b5&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Stars"></a>
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=0374b5&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Forks"></a>
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://wakatime.com/@f535d13e-d218-4161-ace5-55c24686a95f"><img src="https://wakatime.com/badge/user/f535d13e-d218-4161-ace5-55c24686a95f.svg" alt="Total Time Programming"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://komarev.com/ghpvc/?username=PP-Namias&label=Profile%20Views&color=000000&style=flat&label=Visitors" alt="Visitors"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=000000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Stars"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=000000&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Forks"></a>
+  <br>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://wakatime.com/@PP_Namias"><img src="https://wakatime.com/badge/user/f535d13e-d218-4161-ace5-55c24686a95f.svg" alt="Total Time Programming"></a>
   <br>
   <a href="https://discord.com/users/683914336376455200" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958" width="600px"/></a>
   <br>
