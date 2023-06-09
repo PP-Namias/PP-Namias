@@ -30,7 +30,7 @@
   <a href="https://github.com/PP-Namias?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat"></a>
   <a href="https://github.com/PP-Namias?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-black?logo=C-sharp&style=flat"></a>
   <a href="https://github.com/PP-Namias?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=1572B6"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=vb.net" target="_blank"><img alt="VB.Net" src="https://img.shields.io/badge/-VB.Net-black?style=flat&logo=.net&logoColor=1572B6"></a>
+  <a href="https://github.com/PP-Namias?tab=repositories&language=vb.net" target="_blank"><img alt="VB.Net" src="https://img.shields.io/badge/-Visual%20Basic.NET-black?style=flat&logo=.net&logoColor=1572B6"></a>
   <a href="https://github.com/PP-Namias?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python%20-black?style=flat&logo=python"></a>
   <br>
   <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-black?style=flat&logo=unity">
