@@ -13,6 +13,7 @@
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://komarev.com/ghpvc/?username=PP-Namias&label=Profile%20Views&color=000000&style=flat&label=Visitors" alt="Visitors"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=000000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Stars"></a>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=000000&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Forks"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://pp_namias.read.cv/"><img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Commits&color=000000&style=flat&style=for-the-badge&query=%24.commits&url=https://api.github-star-counter.workers.dev/user/PP-Namias" alt="Total Commits"></a>
   <br>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://wakatime.com/@PP_Namias"><img src="https://wakatime.com/badge/user/f535d13e-d218-4161-ace5-55c24686a95f.svg" alt="Total Time Programming"></a>
   <br>
@@ -41,7 +42,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC">
   <br>
-  <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF"/></a>
+  <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF&bg_color=ffffff"/></a>
   <br>
   <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=10&theme=highcontrast&title_color=FFFFFF&hide_border=true&layout=compact"/></a>
   <br>
