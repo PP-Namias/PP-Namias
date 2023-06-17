@@ -48,7 +48,7 @@
   <br>
   <a href="https://wakatime.com/@PP_Namias"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=PP_Namias&theme=highcontrast&title_color=FFFFFF&hide_border=true&layout=compact"/></a>
   <br>
-  <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PP-Namias&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&custom_title=PP+Namias's+Sussy+Graph&hide_border=true"/></a>
+  <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PP-Namias&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&custom_title=PP+Namias's+Contribution+Graph&hide_border=true"/></a>
   <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
   <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
 </details>
