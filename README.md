@@ -20,10 +20,9 @@
   <a href="https://discord.com/users/683914336376455200" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/683914336376455200?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence of PP Namias#9958" width="600px"/></a>
   <br>
   <a href="https://www.linkedin.com/in/PP-Namias"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jhon+Keneth+Namias%2C+19+years+old;Full+Stack+Web+Developer;Unity+Game+Developer;University+of+Caloocan+City+Student;Computer+Science+Student" alt="Typing SVG"/></a>
-</div>
 
-<details align="center">
-<summary align="center"><samp>&#9781; Details</samp></summary>
+<details>
+<summary><samp>&#9781; Details</samp></summary>
   <a href="https://github.com/PP-Namias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000??style=flat&logo=Plex&logoColor=1572B6"></a>
   <a href="https://github.com/PP-Namias?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5"></a>
   <a href="https://github.com/PP-Namias?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6"></a>
@@ -52,6 +51,7 @@
   <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
   <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
 </details>
+</div>
 
 <p align="center">
   <samp>
