@@ -23,7 +23,7 @@
 </div>
 
 <details align="center">
-<summary><samp>&#9781; Details</samp></summary>
+<summary align="center"><samp>&#9781; Details</samp></summary>
   <a href="https://github.com/PP-Namias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000??style=flat&logo=Plex&logoColor=1572B6"></a>
   <a href="https://github.com/PP-Namias?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5"></a>
   <a href="https://github.com/PP-Namias?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6"></a>
