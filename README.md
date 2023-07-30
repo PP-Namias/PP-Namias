@@ -21,36 +21,35 @@
   <br>
   <a href="https://www.linkedin.com/in/PP-Namias"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF20&center=true&vCenter=true&width=435&lines=I'm+Jhon+Keneth+Namias%2C+19+years+old;Full+Stack+Web+Developer;Unity+Game+Developer;University+of+Caloocan+City+Student;Computer+Science+Student" alt="Typing SVG"/></a>
 
-<details>
-<summary><samp>&#9781; Details</samp></summary>
-  <a href="https://github.com/PP-Namias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000??style=flat&logo=Plex&logoColor=1572B6"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=css" target="_blank"><img alt="SASS" src="https://img.shields.io/badge/-SASS-black?style=flat&logo=SASS"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat&logoColor=blue"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-black?logo=C-sharp&style=flat&logoColor=purple"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=1572B6"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=vb.net" target="_blank"><img alt="VB.Net" src="https://img.shields.io/badge/-Visual%20Basic.NET-black?style=flat&logo=.net&logoColor=1572B6"></a>
-  <a href="https://github.com/PP-Namias?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python%20-black?style=flat&logo=python"></a>
-  <br>
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-black?style=flat&logo=unity">
-  <img alt="React.js" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC">
-  <br>
-  <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF&bg_color=ffffff"/></a>
-  <br>
-  <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&langs_count=10&theme=highcontrast&title_color=FFFFFF&hide_border=true&layout=compact"/></a>
-  <br>
-  <a href="https://wakatime.com/@PP_Namias"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=PP_Namias&theme=highcontrast&title_color=FFFFFF&hide_border=true&layout=compact"/></a>
-  <br>
-  <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PP-Namias&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&custom_title=PP+Namias's+Contribution+Graph&hide_border=true"/></a>
-  <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
-  <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
-</details>
+  <details>
+  <summary><samp>&#9781; Details</samp></summary>
+    <a href="https://github.com/PP-Namias?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000??style=flat&logo=Plex&logoColor=1572B6"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=css" target="_blank"><img alt="SASS" src="https://img.shields.io/badge/-SASS-black?style=flat&logo=SASS"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat&logoColor=blue"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-black?logo=C-sharp&style=flat&logoColor=purple"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=1572B6"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=vb.net" target="_blank"><img alt="VB.Net" src="https://img.shields.io/badge/-Visual%20Basic.NET-black?style=flat&logo=.net&logoColor=1572B6"></a>
+    <a href="https://github.com/PP-Namias?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python%20-black?style=flat&logo=python"></a>
+    <br>
+    <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-black?style=flat&logo=unity">
+    <img alt="React.js" src="https://img.shields.io/badge/-React-black?style=flat&logo=react">
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933">
+    <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC">
+    <br>
+    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=PP-Namias&theme=highcontrast&hide_border=true&ring=FFFFFF&fire=757575&currStreakLabel=FFFFFF&bg_color=ffffff&background=0D1117"/></a>
+    <a href="https://www.linkedin.com/in/PP-Namias"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PP-Namias&=&theme=transparent&title_color=FFFFFF&hide_border=true&layout=compact&background=0D1117"/></a>
+    <br>
+    <a href="https://wakatime.com/@PP_Namias"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=PP_Namias&theme=transparent&title_color=FFFFFF&hide_border=true&layout=compact"/></a>
+    <br>
+    <a href="https://www.linkedin.com/in/PP-Namias"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PP-Namias&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&custom_title=PP+Namias's+Contribution+Graph&hide_border=true"/></a>
+    <a href="https://github.com/PP-Namias" target="_blank"><img alt="PP-Namias" src="https://img.shields.io/badge/-Github-375eab?style=flat-square&logo=github&logoColor=white&color=black"/></a>
+    <a href="https://github.com/PP-Namias/PP-Namias" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PP-Namias/PP-Namias?label=profile%20updated&style=flat-square"></a>
+  </details>
 </div>
 
 <p align="center">
